@@ -1,7 +1,14 @@
 [package]
 name = "wave"
 version = "0.1.0"
-authors = ["misko"]
+authors = ["imiskolee@gmail.com"]
+description = "a zero copy WAVE audio format parse based on nom."
+homepage = "https://github.com/Noise-Labs/wave"
+repository = "https://github.com/Noise-Labs/wave"
+readme = "README.md"
+keywords = ["audio","wave","nom","parser"]
+categories = ["audio","wave","nom","parser"]
+license = "MIT"
 
 [dependencies]
 nom="4.0.0-beta2"
