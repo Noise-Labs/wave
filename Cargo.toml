@@ -1,6 +1,6 @@
 [package]
 name = "libwave"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["imiskolee@gmail.com"]
 description = "a zero copy WAVE audio format parse based on nom."
 homepage = "https://github.com/Noise-Labs/wave"
