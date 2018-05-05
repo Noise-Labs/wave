@@ -7,7 +7,7 @@ homepage = "https://github.com/Noise-Labs/wave"
 repository = "https://github.com/Noise-Labs/wave"
 readme = "README.md"
 keywords = ["audio","wave","nom","parser"]
-categories = ["audio","wave","nom","parser"]
+categories = ["encoding","multimedia::audio"]
 license = "MIT"
 
 [dependencies]
