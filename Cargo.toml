@@ -1,5 +1,5 @@
 [package]
-name = "wave"
+name = "libwave"
 version = "0.1.0"
 authors = ["imiskolee@gmail.com"]
 description = "a zero copy WAVE audio format parse based on nom."
